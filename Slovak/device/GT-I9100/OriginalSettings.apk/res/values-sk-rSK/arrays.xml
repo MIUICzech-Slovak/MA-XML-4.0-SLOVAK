@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="touch_key_light_entries">
+        <item>1.5 sekundy</item>
+        <item>6 sekúnd</item>
+        <item>Vždy vypnuté</item>
+        <item>Vždy zapnuté</item>
+    </string-array>
+    <string-array name="psm_entries_new">
+        <item>10% batérie</item>
+        <item>20% batérie</item>
+        <item>30% batérie</item>
+        <item>40% batérie</item>
+        <item>50% batérie</item>
+    </string-array>
+</resources>
